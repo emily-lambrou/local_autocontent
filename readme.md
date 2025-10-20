@@ -1,4 +1,4 @@
-# Auto Content for New Courses (local_autocontent)
+### Auto Content for New Courses (local_autocontent)
 
 ### Description
 Automatically inserts:
